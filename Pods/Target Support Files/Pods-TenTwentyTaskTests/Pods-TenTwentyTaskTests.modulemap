@@ -1,0 +1,6 @@
+framework module Pods_TenTwentyTaskTests {
+  umbrella header "Pods-TenTwentyTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
